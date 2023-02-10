@@ -1,7 +1,7 @@
 # Certificados
 Certificados de Cursos
 
-#URL da credencial
+# URL da credencial
 
 Formação React com TypeScript
 https://cursos.alura.com.br/degree/certificate/edf4c6bd-0c17-4f44-9994-9dbcdf4f45b1
